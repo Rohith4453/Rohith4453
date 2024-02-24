@@ -22,8 +22,9 @@ Kodiakanal Christian College
 
 
 ## Certifications 🎓
-**Coursera: **
+**Coursera:**
 * **Google Advanced Data Analytics**
+  <!--
   > Foundation Of Data Science  <br> Coursera(December 2023) <br>
 
   > Get Started with Python  <br> Coursera(February 2023) <br>
@@ -36,9 +37,9 @@ Kodiakanal Christian College
 
   > The Nuts And Bolts of Machine Learning  <br> Coursera(February 2024)
 
-  > Google Advanced Data Analytics Capstone <br> Coursera (February 2024)
+  > Google Advanced Data Analytics Capstone <br> Coursera (February 2024) -->
 
-**Udemy: **
+**Udemy:**
 * The Complete Python pro Bootcamp <br> Udemy ( September 2022 - September 2023)
 
 * Machine Learning and Data Science Bootcamp <br> Udemy(February 2022 - December 2023)
