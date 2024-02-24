@@ -4,7 +4,7 @@
 
 📧 Email: RohithMathew8787@gmail.com
 
-🔗 Linkedin: https://www.linkedin.com/in/rohith-mathew-4192b01b3/
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-mathew-4192b01b3/)
 
 <!--
 **Rohith4453/Rohith4453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
