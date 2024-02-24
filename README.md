@@ -19,6 +19,38 @@ I'm a Certified Data Scientist and B.Sc. Networking and Security graduate, drive
 ## Education 🎓
 * **Bachelor of Science in Networking and Security**, <br>
 Kodiakanal Christian College
+
+
+## Certifications 🎓
+**Coursera: **
+* **Google Advanced Data Analytics**
+  > Foundation Of Data Science  <br> Coursera(December 2023) <br>
+
+  > Get Started with Python  <br> Coursera(February 2023) <br>
+
+  > Go Beyond the Numbers: Translate data into insights  <br> Coursera(November 2023) <br>
+
+  > The Power OF Statistics  <br> Coursera(December 2023)
+
+  > Regression Analysis: Simplify Complex Data Relationships  <br> Coursera(January 2024)
+
+  > The Nuts And Bolts of Machine Learning  <br> Coursera(February 2024)
+
+  > Google Advanced Data Analytics Capstone <br> Coursera (February 2024)
+
+**Udemy: **
+* The Complete Python pro Bootcamp <br> Udemy ( September 2022 - September 2023)
+
+* Machine Learning and Data Science Bootcamp <br> Udemy(February 2022 - December 2023)
+
+
+
+
+
+
+
+
+
 <!--
 **Rohith4453/Rohith4453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
